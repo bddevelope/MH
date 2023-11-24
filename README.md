@@ -1,2 +1,2 @@
 # MH
-Hunther, the Hunter manga
+Hanther, the Hunter manga
