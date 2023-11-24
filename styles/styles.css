@@ -10,13 +10,22 @@ body{
   color: #ffffff;
   font-size: 26px;
 }
+.btn{
+  background-color: red;
+  text-align: center;
+  cursor: pointer;
+  
+
+}
 a{
+    color: #fff2f2;
     text-decoration: none;
     font-style: normal;
+
     
 }
 a:hover{
-  color: blueviolet;
+  color: rgb(185, 142, 0);
 }
 ul{
     list-style: none;
